@@ -6,11 +6,12 @@ Greetings! Tasmeo Ahamed Meem, a skilled MERN stack developer and front-end spec
 - Name: Tasmeo Ahamed Meem
 - Email: tasmeomeem.dev@gmail.com
 - Phone: 01644899586
-###Skills:  MongoDB/Express Js/Node Js / REACT / JS / HTML / CSS/Tailwind CSS
-
- 🔭 I’m currently working on  Next Js Mongoess Type script. 
 
 
+ 🔭 I’m currently working on  Next Js Mongoose Type script. 
+### Professional Summary
+I am a dedicated programmer with over 2 year of experience, proficient in the following technologies:
+- CSS, HTML, Tailwindcss,Bootstrap5, Javascript, React, Node.js, Express, MongoDB
 
 
 
