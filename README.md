@@ -48,5 +48,4 @@ I am a dedicated programmer with over 2 year of experience, proficient in the fo
 - ### Repo Link:
 - Client site : [https://65394dc686f8ea0414965c37-serene-toff.netlify.app](https://github.com/tasmeomeem/The-Drive)
 - Server site: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-tasmeomeem
-- Server site: https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-tasmeomeem
 
